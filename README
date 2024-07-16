@@ -1,0 +1,9 @@
+The repository contains programs intended to make efficient solution based on better logics. 
+It would be helpful to anyone learning basic python programming and needs help improving logic. 
+Ultimately, the repository is public to understand the logic discussed and building the better more efficient code. 
+Disclaimer. this module tries to avoid the direst in-built functions for a task but rather focussed on how to tackle a problem.
+
+The following programs are availsble in this repository. 
+1. Find factors of given number 
+2. Find Lucky Number based on a person's date of birth 
+3. Find Transpose of a matrix 
